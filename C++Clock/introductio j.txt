@@ -1,1 +1,0 @@
-A C++ starting project, Basically just a working clock based on local time zone; Learning about C++ and how it works.
