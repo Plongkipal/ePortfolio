@@ -1,1 +1,3 @@
-A Donating App; Many individuals and households accumulate unused items that could still be valuable to others. However, finding a way to dispose of these items that benefit those in need can be challenging. To address this, the Link'n'Give platform lets users easily share unused items with others who may need them, promoting sustainability and community-driven support.
+A Donating App; Many individuals and households accumulate unused items that could still be valuable to others. 
+However, finding a way to dispose of these items that benefit those in need can be challenging. 
+To address this, the Link'n'Give platform lets users easily share unused items with others who may need them, promoting sustainability and community-driven support.
