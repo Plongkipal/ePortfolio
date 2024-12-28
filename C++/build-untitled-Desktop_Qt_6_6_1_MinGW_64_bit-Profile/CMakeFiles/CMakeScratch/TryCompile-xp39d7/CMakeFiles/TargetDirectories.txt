@@ -1,0 +1,3 @@
+C:/My Program dump/.vscode/C++/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Profile/CMakeFiles/CMakeScratch/TryCompile-xp39d7/CMakeFiles/cmTC_357ff.dir
+C:/My Program dump/.vscode/C++/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Profile/CMakeFiles/CMakeScratch/TryCompile-xp39d7/CMakeFiles/edit_cache.dir
+C:/My Program dump/.vscode/C++/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Profile/CMakeFiles/CMakeScratch/TryCompile-xp39d7/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/employeeinfo.o
+release/techused.o
+release/about.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_employeeinfo.o
+release/moc_techused.o
+release/moc_about.o

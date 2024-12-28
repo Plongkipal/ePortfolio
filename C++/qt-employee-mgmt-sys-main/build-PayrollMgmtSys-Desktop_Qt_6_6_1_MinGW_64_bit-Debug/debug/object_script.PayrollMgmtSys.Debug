@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/employeeinfo.o
+debug/techused.o
+debug/about.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_employeeinfo.o
+debug/moc_techused.o
+debug/moc_about.o

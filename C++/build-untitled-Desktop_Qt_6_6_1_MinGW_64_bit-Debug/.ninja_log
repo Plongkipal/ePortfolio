@@ -1,0 +1,9 @@
+# ninja log v5
+6	801	7412440412208226	untitled_autogen/timestamp	dafcb7a80ad0515f
+6	801	7412440412208226	untitled_autogen/mocs_compilation.cpp	dafcb7a80ad0515f
+6	801	7412440412208226	C:/My Program dump/.vscode/C++/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	dafcb7a80ad0515f
+6	801	7412440412208226	C:/My Program dump/.vscode/C++/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	dafcb7a80ad0515f
+806	3382	7412440438633305	CMakeFiles/untitled.dir/main.cpp.obj	a9de0c662d5927ba
+801	3393	7412440438760222	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	6f6938fe91cfc0bc
+810	3402	7412440438843041	CMakeFiles/untitled.dir/mainwindow.cpp.obj	cce62425ae3e951f
+27	225	7412440455437556	untitled.exe	676d2ef0eeea6a88
